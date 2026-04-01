@@ -1,0 +1,5 @@
+1,Processador,27,4553.14
+2,Mouse Gamer,9,3356.6
+3,Drone,42,4752.5
+4,Placa de Vídeo,27,1256.97
+5,Sofá,13,2379.75
